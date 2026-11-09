@@ -1,0 +1,8 @@
+ESFERAS AUTOFARM - mod Forge 1.20.2 (somente cliente)
+Voa sozinho ate as Esferas do Dragao (Terra e Namekusei) no servidor Rede Warriors + DragonMineZ.
+
+USAR:
+ 1) Va ate o Mundo de Historia (menu ESC), na Terra ou em Namek.
+ 2) Aperte K. O mod liga o voo, voa ate a esfera mais proxima e encosta nela; depois vai para a proxima.
+ 3) Aperte K de novo para parar. Para o outro planeta, va la pelo menu e aperte K de novo.
+ (Tecla K pode ser trocada em Opcoes > Controles > Esferas AutoFarm.)
